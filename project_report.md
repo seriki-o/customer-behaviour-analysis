@@ -105,7 +105,7 @@ The dataset includes:
 * 7 purchase-frequency categories
 
 <img width="1358" height="483" alt="Screenshot 2026-10-07 194812" src="https://github.com/user-attachments/assets/42d5a0de-105a-44dd-ba43-840c0dff0788" />
-<img width="1129" height="524" alt="Screenshot 2026-10-07 195501" src="https://github.com/user-attachments/assets/8f6a8a90-431b-4c44-92a7-3253dba254bb" />
+
 
 ---
 

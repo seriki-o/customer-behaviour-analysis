@@ -104,7 +104,8 @@ The dataset includes:
 * 6 payment methods
 * 7 purchase-frequency categories
 
-<!-- SCREENSHOT: Dataset preview showing the original customer_behaviour.csv data in Excel or Jupyter Notebook -->
+<img width="1358" height="483" alt="Screenshot 2026-10-07 194812" src="https://github.com/user-attachments/assets/42d5a0de-105a-44dd-ba43-840c0dff0788" />
+<img width="1129" height="524" alt="Screenshot 2026-10-07 195501" src="https://github.com/user-attachments/assets/8f6a8a90-431b-4c44-92a7-3253dba254bb" />
 
 ---
 
@@ -174,7 +175,7 @@ Initial inspection focused on:
 * Numerical distributions
 * Categorical values
 
-<!-- SCREENSHOT: Jupyter Notebook showing initial dataset inspection / df.info() / dataset shape -->
+<img width="1129" height="524" alt="Screenshot 2026-10-07 195501" src="https://github.com/user-attachments/assets/3287632d-da60-47d8-84c3-f730db00a7b9" />
 
 ---
 
@@ -712,8 +713,7 @@ The relatively close performance of these products suggests that the top-perform
 
 The second dashboard focuses on purchasing behaviour, customer frequency, subscriptions, product size, and discount activity.
 
-<img width="898" height="499" alt="Screenshot 2026-10-07 191602" src="https://github.com/user-attachments/assets/bad6be0e-5832-4ed7-a119-ff3c6e7fed8e" /><img width="897" height="505" alt="Screenshot 2026-10-07 191533" src="https://github.com/user-attachments/assets/989b3192-d285-4334-a5fc-dd44bc62b70a" />
-
+<img width="898" height="499" alt="Screenshot 2026-10-07 191602" src="https://github.com/user-attachments/assets/bad6be0e-5832-4ed7-a119-ff3c6e7fed8e" />
 
 ### Previous Purchases vs. Purchase Amount
 

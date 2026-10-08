@@ -4,7 +4,7 @@
 
 This project analyses customer shopping behaviour to identify purchasing patterns, product and category performance, customer characteristics, discount behaviour, and subscription trends.
 
-The analysis follows an end-to-end data analytics workflow, beginning with data exploration and preparation in Python, followed by relational data storage and business analysis using PostgreSQL and SQL. The resulting dataset was then connected to Power BI to develop an interactive dashboard for exploring customer behaviour and sales performance.
+The analysis follows an end-to-end data analytics workflow, beginning with data exploration and preparation in Python, followed by relational data storage and business analysis using PostgreSQL. The resulting dataset was then connected to Power BI to develop an interactive dashboard for exploring customer behaviour and sales performance.
 
 The dataset contains **3,900 unique customer records** covering purchasing characteristics, demographics, product information, spending, review ratings, subscription status, shipping preferences, discounts, previous purchases, and purchase frequency.
 
@@ -126,7 +126,7 @@ Feature Engineering
        ↓
 PostgreSQL
        ↓
-SQL Business Analysis
+Business Analysis
        ↓
 Power BI
        ↓
@@ -145,7 +145,6 @@ The workflow was designed to separate data preparation, analytical querying, and
 | Pandas           | Data manipulation and analysis               |
 | Jupyter Notebook | Python analysis environment                  |
 | PostgreSQL       | Relational data storage                      |
-| SQL              | Business analysis and querying               |
 | Power BI         | Data visualisation and dashboard development |
 | GitHub           | Project documentation and version control    |
 
